@@ -1,7 +1,5 @@
 # Project Title: EduBot-The-Intelligent-Student-Assistant
 
-# EduBot: The Intelligent Student Assistant
-
 ## Overview
 
 EduBot is an advanced chatbot designed to assist students with their academic inquiries. By leveraging web scraping, natural language processing, and text-to-speech technology, EduBot provides accurate, context-aware responses in both text and audio formats.
